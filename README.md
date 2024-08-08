@@ -6,8 +6,6 @@
 **Living in:** Maia, Portugal <br /> 
 **University:** ISCAP <br /> 
 
-🌱 I’m currently diving deep into data analysis and visualization
-
 <a href='https://www.linkedin.com/in/georgia-cardoso-a895161a3/'>
   <img width="70" src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
 </a>
