@@ -20,12 +20,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/georgiassc/georgiassc/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 
 
