@@ -1,16 +1,11 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left"> About me</h1>
 
 ###
 
-<p align="left">My name is Georgia Cardoso and I am 23 years old, currently living in Porto, Portugal. Throughout my academic journey, I have discovered the immense potential of technology to transform the way we live and work. I am currently expanding my horizons at ISCAP, where I am pursuing a Master's in Electronic Business.
+<p align="left"> Hello, my name is Georgia and I'm currently pursuing a master's in Electronic Business at ISCAP. I have developed strong communication and problem- solving skills through experience in customer service and process optimization. With a focus on digital commerce, I am ready to apply my expertise to enhance online operations, organize campaigns, and optimize shopping experiences, driving innovation and efficiency in the e- commerce space.
+
+I am open to connecting with professionals who share similar interests and would like to exchange ideas about the future of digital commerce!
   
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ I have two citizenships, Brazilian and Portuguese<br>📚 I'm currently doing a master's degree at ISCAP <br>🎲 I always like to play games, especially board games<br></p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/georgiasscardoso/" target="_blank">
